@@ -7,7 +7,10 @@ Software • Embedded Systems • Hardware
 
 <p align="center">
   <a href="mailto:r53fang@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Email-r53fang%40uwaterloo.ca-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/School%20Email-r53fang%40uwaterloo.ca-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:rayymondf29@gmail.com">
+    <img src="https://img.shields.io/badge/Personal%20Email-rayymondf29%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raymond-fang-214192331">
     <img src="https://img.shields.io/badge/LinkedIn-Raymond%20Fang-blue?style=flat-square&logo=linkedin" />
@@ -113,6 +116,7 @@ A Java-based billiards game project focused on object-oriented design, game logi
 
 I'm always open to discussing software, embedded systems, hardware projects, and engineering opportunities.
 
-- Email: **r53fang@uwaterloo.ca**
+- School Email: **r53fang@uwaterloo.ca**
+- Personal Email: **rayymondf29@gmail.com**
 - LinkedIn: [linkedin.com/in/raymond-fang-214192331](https://www.linkedin.com/in/raymond-fang-214192331)
 - GitHub: [github.com/rayymondf](https://github.com/rayymondf)
