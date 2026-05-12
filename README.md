@@ -56,6 +56,8 @@ I'm an Electrical Engineering student at the University of Waterloo interested i
 
 ---
 
+## Featured Projects
+
 ### Social Posting Dashboard — Instigator  
 **React • Vite • Node.js • Express • PostgreSQL • Passport.js**
 
@@ -69,9 +71,6 @@ A full-stack social posting app with user authentication, guest access, posts, l
 [Repository](https://github.com/rayymondf/Posting_Dashboard_Project) • [Live App](https://posting-dashboard-project.onrender.com/)
 
 ---
-
-## Featured Projects
-
 ### Chrome Translator Extension — Lingo  
 **JavaScript • Chrome Extension Manifest V3 • Chrome Side Panel API • DeepL API • Chrome Storage**
 
