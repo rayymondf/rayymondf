@@ -103,17 +103,19 @@ A browser-based task manager that lets users create projects, add todos, assign 
 
 ---
 
-### Java 8-Ball Pool Game  
-**Java • Java Swing • Object-Oriented Programming • 2D Physics**
+### Java 8-Ball Pool Game
 
-A two-player 8-ball pool game built with Java Swing, featuring interactive aiming, shot power control, turn-based gameplay, solids/stripes assignment, foul detection, scratch handling, ball-in-hand, and legal/illegal 8-ball win conditions.
+**Java • Java Swing • Object-Oriented Programming • 2D Game Physics**
 
-- Built a custom Java Swing game loop with real-time rendering, keyboard/mouse controls, and a menu/rules screen
-- Implemented 2D ball physics including friction-based slowdown, cushion bounce, pocket detection, and equal-mass collision handling
-- Designed object-oriented game structure using separate classes for balls, players, ball groups, menu navigation, and gameplay logic
-- Added rule validation for open-table starts, first-contact fouls, scratches, ball-in-hand, group assignment, and 8-ball win/loss conditions
+A two-player 8-ball pool game built with Java Swing, featuring interactive aiming, shot power, turn-based gameplay, and rule-based win/loss logic.
+
+- Built a custom Java Swing game loop with real-time rendering, mouse controls, and menu/rules screens
+- Implemented 2D pool physics using velocity, friction-based slowdown, cushion bounces, pocket detection, and ball-to-ball collisions
+- Designed object-oriented classes for balls, players, menus, game rules, and table logic
+- Added gameplay rules for solids/stripes assignment, scratches, fouls, ball-in-hand, and 8-ball win/loss conditions
 
 [Repository](https://github.com/rayymondf/Java-Project-Billards-Game)
+
 ---
 
 ## Contact
