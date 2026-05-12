@@ -112,10 +112,17 @@ A Java-based billiards game project focused on object-oriented design, game logi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayymondf&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymondf&layout=compact&hide_border=true" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rayymondf&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" 
+    height="160" 
+    alt="Raymond's GitHub stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymondf&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" 
+    height="160" 
+    alt="Top languages"
+  />
 </p>
-
 ---
 
 ## Contact
