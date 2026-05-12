@@ -21,16 +21,7 @@ Software • Embedded Systems • Hardware
 
 ## About Me
 
-I'm an Electrical Engineering student at the University of Waterloo interested in the intersection of **software engineering, embedded systems, hardware design, and data systems**.
-
-I enjoy building practical systems that connect software to the real world — from full-stack web apps and Chrome extensions to CAN-based firmware tools, microcontroller projects, and database-backed workflows.
-
-Currently, I'm focused on:
-
-- Building full-stack applications with **React, Node.js, Express, PostgreSQL, and REST APIs**
-- Developing embedded/firmware tools using **C/C++, STM32, ESP32, Arduino, and CAN**
-- Working with databases, servers, and automation using **SQL, Python, pandas, Microsoft SQL Server, MySQL, and PostgreSQL**
-- Applying software and hardware skills to automotive, robotics, healthcare, and productivity-focused systems
+I'm an Electrical Engineering student at the University of Waterloo interested in building systems that bridge **software and hardware** — including full-stack applications and embedded systems.
 
 ---
 
@@ -115,34 +106,6 @@ A browser-based task manager that lets users create projects, add todos, assign 
 A Java-based billiards game project focused on object-oriented design, game logic, and interactive application structure.
 
 [Repository](https://github.com/rayymondf/Java-Project-Billards-Game)
-
----
-
-## Engineering Experience Highlights
-
-### Data Engineering & Systems  
-At Einfolab, I worked on healthcare-focused database and server environments involving SQL Server, MySQL, Windows Server, workstation setup, ODBC connections, RDP access, mapped drives, user permissions, Python automation, pandas, and Excel/CSV data workflows.
-
-### Embedded Firmware & Vehicle Systems  
-With University of Waterloo Formula Electric, I work on low-voltage firmware and testing tools for vehicle systems, including BMU, VCU, PDU, CAN message behavior, sensor input simulation, ADC checks, fault states, and CAN log analysis.
-
-### Robotics & Hardware  
-I led hardware systems for a robotics project involving an RC Mars rover, ESP32 motor control, joystick-to-PWM drive logic, ultrasonic sensors, IMU telemetry, camera feedback, and fail-safe obstacle handling.
-
----
-
-## What I'm Interested In
-
-I'm currently looking to grow in roles involving:
-
-- Software Engineering Internships
-- Embedded Software / Firmware Engineering
-- Hardware Systems Engineering
-- Full-Stack Development
-- Data Engineering / Backend Systems
-- Automotive, robotics, healthcare, and productivity-focused technology
-
-I especially enjoy projects where software has to interact with hardware, sensors, databases, APIs, or real users.
 
 ---
 
