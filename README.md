@@ -58,6 +58,7 @@ I'm an Electrical Engineering student at the University of Waterloo interested i
 
 ## Featured Projects
 
+
 ### Social Posting Dashboard — Instigator  
 **React • Vite • Node.js • Express • PostgreSQL • Passport.js**
 
