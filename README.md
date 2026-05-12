@@ -72,7 +72,7 @@ A full-stack social posting app with user authentication, guest access, posts, l
 - Added session-based authentication using Passport.js, bcrypt, and PostgreSQL-backed storage
 - Deployed using Render with a Neon PostgreSQL database
 
-[Repository](https://github.com/rayymondf/Posting_Dashboard_Project) • [Live App](https://posting-dashboard-project.onrender.com/)
+[Repository](https://github.com/rayymondf/Posting_Dashboard_Project) • [Live Demo](https://posting-dashboard-project.onrender.com/)
 
 ---
 ### Chrome Translator Extension — Lingo  
