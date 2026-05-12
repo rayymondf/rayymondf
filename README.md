@@ -56,6 +56,20 @@ I'm an Electrical Engineering student at the University of Waterloo interested i
 
 ---
 
+### Social Posting Dashboard — Instigator  
+**React • Vite • Node.js • Express • PostgreSQL • Passport.js**
+
+A full-stack social posting app with user authentication, guest access, posts, likes, comments, profiles, and responsive desktop/mobile navigation.
+
+- Built frontend with React, Vite, JavaScript, and CSS
+- Implemented Express REST API routes for users, posts, likes, comments, and profiles
+- Added session-based authentication using Passport.js, bcrypt, and PostgreSQL-backed storage
+- Deployed using Render with a Neon PostgreSQL database
+
+[Repository](https://github.com/rayymondf/Posting_Dashboard_Project) • [Live App](https://posting-dashboard-project.onrender.com/)
+
+---
+
 ## Featured Projects
 
 ### Chrome Translator Extension — Lingo  
@@ -69,20 +83,6 @@ A lightweight Chrome extension that opens a translation workspace inside Chrome'
 - Designed a simple side-panel UI for in-browser productivity
 
 [Repository](https://github.com/rayymondf/Lingo_Seamless_Language_Translator) • [Chrome Web Store](https://chromewebstore.google.com/detail/lingo-language-translator/okfkakjgiocfbejhmlpfmlbgjgdkddbl)
-
----
-
-### Social Posting Dashboard — Instigator  
-**React • Vite • Node.js • Express • PostgreSQL • Passport.js**
-
-A full-stack social posting app with user authentication, guest access, posts, likes, comments, profiles, and responsive desktop/mobile navigation.
-
-- Built frontend with React, Vite, JavaScript, and CSS
-- Implemented Express REST API routes for users, posts, likes, comments, and profiles
-- Added session-based authentication using Passport.js, bcrypt, and PostgreSQL-backed storage
-- Deployed using Render with a Neon PostgreSQL database
-
-[Repository](https://github.com/rayymondf/Posting_Dashboard_Project) • [Live App](https://posting-dashboard-project.onrender.com/)
 
 ---
 
