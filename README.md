@@ -2,7 +2,6 @@
 
 <h3 align="center">
 Electrical Engineering @ University of Waterloo <br/>
-Software • Data Systems • Embedded Systems • Hardware
 </h3>
 
 <p align="center">
