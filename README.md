@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Electrical Engineering @ University of Waterloo <br/>
-Software • Embedded Systems • Hardware
+Software • Data Systems • Embedded Systems • Hardware
 </h3>
 
 <p align="center">
@@ -24,48 +24,68 @@ Software • Embedded Systems • Hardware
 
 ## About Me
 
-I'm an Electrical Engineering student at the University of Waterloo interested in building systems that bridge **software and hardware** — including full-stack applications and embedded systems.
+I'm an Electrical Engineering student at the University of Waterloo interested in building systems that connect **software, data, embedded firmware, and hardware**.
+
+I enjoy working across the stack, from full-stack web apps and REST APIs to SQL databases, automation scripts, CAN-based firmware tooling, and PCB/hardware workflows.
 
 ---
 
 ## Technical Skills
 
-### Software & Backend
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+### Languages
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![Ruby](https://img.shields.io/badge/Ruby-black?style=flat-square&logo=ruby)
 
-### Frameworks, Tools & Databases
+### Frameworks, Backend & APIs
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
+
+### Databases, Data & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas)
+![SSMS](https://img.shields.io/badge/SSMS-black?style=flat-square&logo=microsoftsqlserver)
+![Passport.js](https://img.shields.io/badge/Passport.js-black?style=flat-square&logo=passport)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 
-### Embedded & Hardware
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
+### Embedded, Hardware & Design
+![STM32](https://img.shields.io/badge/STM32-black?style=flat-square&logo=stmicroelectronics)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=flat-square&logo=raspberrypi)
-![KiCad](https://img.shields.io/badge/KiCad-black?style=flat-square&logo=kicad)
+![FPGA](https://img.shields.io/badge/FPGA-black?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-black?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN-black?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-black?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-black?style=flat-square)
+![UART](https://img.shields.io/badge/UART-black?style=flat-square)
 ![Altium Designer](https://img.shields.io/badge/Altium-black?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-black?style=flat-square&logo=kicad)
 
-**Hardware/Embedded Areas:** STM32, ESP32, CAN, I2C, UART, SPI, soldering, sensor integration, motor control, firmware testing
+**Hardware/Embedded Areas:** firmware testing, CAN message analysis, low-voltage systems, sensor integration, motor control, PCB design, soldering, and communication protocols.
 
 ---
 
 ## Featured Projects
 
-
-### Social Posting Dashboard — Instigator  
+### Social Posting Dashboard  
 **React • Vite • Node.js • Express • PostgreSQL • Passport.js**
 
-A full-stack social posting app with user authentication, guest access, posts, likes, comments, profiles, and responsive desktop/mobile navigation.
+A full-stack social posting app with user registration, login, guest access, profile pages, posts, likes, comments, and responsive desktop/mobile navigation.
 
 - Built frontend with React, Vite, JavaScript, and CSS
 - Implemented Express REST API routes for users, posts, likes, comments, and profiles
@@ -75,15 +95,16 @@ A full-stack social posting app with user authentication, guest access, posts, l
 [Repository](https://github.com/rayymondf/Posting_Dashboard_Project) • [Live Demo](https://posting-dashboard-project.onrender.com/)
 
 ---
+
 ### Chrome Translator Extension — Lingo  
-**JavaScript • Chrome Extension Manifest V3 • Chrome Side Panel API • DeepL API • Chrome Storage**
+**JavaScript • Manifest V3 • HTML/CSS • DeepL API • Chrome Side Panel API • Chrome localStorage**
 
-A lightweight Chrome extension that opens a translation workspace inside Chrome's side panel. Users can translate text, select target languages, copy results, and reuse recent translations stored locally in the browser.
+A Chrome extension that supports in-browser translation with saved translation history and language preferences.
 
-- Built with vanilla JavaScript, HTML, and CSS using Manifest V3
-- Integrated DeepL API with asynchronous Fetch requests
-- Added local history, saved draft text, and saved language preferences with Chrome storage
-- Designed a simple side-panel UI for in-browser productivity
+- Built with vanilla JavaScript, HTML, and CSS using Chrome Extension Manifest V3
+- Integrated DeepL API requests with asynchronous Fetch logic
+- Added dynamic target-language loading, input validation, rate-limit handling, and network-error handling
+- Used Chrome localStorage to persist translation history and language preferences
 
 [Repository](https://github.com/rayymondf/Lingo_Seamless_Language_Translator) • [Chrome Web Store](https://chromewebstore.google.com/detail/lingo-language-translator/okfkakjgiocfbejhmlpfmlbgjgdkddbl)
 
@@ -120,7 +141,7 @@ A two-player 8-ball pool game built with Java Swing, featuring interactive aimin
 
 ## Contact
 
-I'm always open to discussing software, embedded systems, hardware projects, and engineering opportunities.
+I'm always open to discussing software, data systems, embedded systems, hardware projects, and engineering opportunities.
 
 - School Email: **r53fang@uwaterloo.ca**
 - Personal Email: **rayymondf29@gmail.com**
