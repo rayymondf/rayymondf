@@ -74,8 +74,6 @@ I'm an Electrical Engineering student at the University of Waterloo with interes
 ![Altium Designer](https://img.shields.io/badge/Altium-black?style=flat-square)
 ![KiCad](https://img.shields.io/badge/KiCad-black?style=flat-square&logo=kicad)
 
-**Hardware/Embedded Areas:** firmware testing, CAN message analysis, low-voltage systems, sensor integration, motor control, PCB design, soldering, and communication protocols.
-
 ---
 
 ## Featured Projects
