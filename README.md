@@ -24,9 +24,9 @@ Software • Data Systems • Embedded Systems • Hardware
 
 ## About Me
 
-I'm an Electrical Engineering student at the University of Waterloo interested in building systems that connect **software, data, embedded firmware, and hardware**.
+I'm an Electrical Engineering student at the University of Waterloo with interests across software, data systems, embedded systems, and hardware.
 
-I enjoy working across the stack, from full-stack web apps and REST APIs to SQL databases, automation scripts, CAN-based firmware tooling, and PCB/hardware workflows.
+I enjoy building practical projects, learning new technologies, and solving engineering problems that involve both code and real-world systems.
 
 ---
 
