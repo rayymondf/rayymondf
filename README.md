@@ -8,9 +8,6 @@ Electrical Engineering @ University of Waterloo <br/>
   <a href="https://raymondfang.com">
     <img src="https://img.shields.io/badge/Website-raymondfang.com-0078d4?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/rayymondf">
-    <img src="https://img.shields.io/badge/GitHub-rayymondf-black?style=flat-square&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/raymond-fang-214192331">
     <img src="https://img.shields.io/badge/LinkedIn-Raymond%20Fang-blue?style=flat-square&logo=linkedin" />
   </a>
