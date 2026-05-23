@@ -5,17 +5,17 @@ Electrical Engineering @ University of Waterloo <br/>
 </h3>
 
 <p align="center">
-  <a href="mailto:r53fang@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/School%20Email-r53fang%40uwaterloo.ca-red?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://raymondfang.com">
+    <img src="https://img.shields.io/badge/Website-raymondfang.com-0078d4?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:rayymondf29@gmail.com">
-    <img src="https://img.shields.io/badge/Personal%20Email-rayymondf29%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://github.com/rayymondf">
+    <img src="https://img.shields.io/badge/GitHub-rayymondf-black?style=flat-square&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/raymond-fang-214192331">
     <img src="https://img.shields.io/badge/LinkedIn-Raymond%20Fang-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/rayymondf">
-    <img src="https://img.shields.io/badge/GitHub-rayymondf-black?style=flat-square&logo=github" />
+  <a href="mailto:rayymondf29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rayymondf29%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -140,11 +140,4 @@ A two-player 8-ball pool game built with Java Swing, featuring interactive aimin
 
 ---
 
-## Contact
-
-I'm always open to discussing software, data systems, embedded systems, hardware projects, and engineering opportunities.
-
-- School Email: **r53fang@uwaterloo.ca**
-- Personal Email: **rayymondf29@gmail.com**
-- LinkedIn: [linkedin.com/in/raymond-fang-214192331](https://www.linkedin.com/in/raymond-fang-214192331)
-- GitHub: [github.com/rayymondf](https://github.com/rayymondf)
+I'm always open to discussing software, data systems, embedded systems, hardware projects, and engineering opportunities. Feel free to reach out using any of the links above!
