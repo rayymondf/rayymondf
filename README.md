@@ -20,7 +20,7 @@ Electrical Engineering @ University of Waterloo <br/>
 
 ## About Me
 
-I'm an Electrical Engineering student at the University of Waterloo with interests across SWE, embedded systems, and hardware design.
+Electrical Engineering student at the University of Waterloo, building practical systems that shape how we interact with the world around us.
 
 ---
 
